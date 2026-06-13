@@ -15,13 +15,17 @@
     {
       date: "2026-06-12",
       name: "Sunglasses at Night",
+      special: null,
+    },
+    {
+      date: "2026-06-13",
+      name: "Partyalarm mit Mütze Katze",
       special: [
         { text: "Zeig am Einlass dein Bändchen — und du bekommst heute einen " },
         { text: "Shot aufs Haus", vip: true },
         { text: "." },
       ],
     },
-    { date: "2026-06-13", name: "Partyalarm mit Mütze Katze", special: null },
     { date: "2026-06-18", name: "2€ Party — The Start", special: null },
     { date: "2026-06-19", name: "Abiball Aftershow hosted by RMS", special: null },
     { date: "2026-06-20", name: "2000er & 2010er", special: null },
