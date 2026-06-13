@@ -16,10 +16,8 @@
       date: "2026-06-12",
       name: "Sunglasses at Night",
       special: [
-        { text: "Secret Guestlist — mit deinem Bändchen bekommst du heute " },
-        { text: "VIP-Status", vip: true },
-        { text: " und damit " },
-        { text: "freien Eintritt", vip: true },
+        { text: "Zeig am Einlass dein Bändchen — und du bekommst heute einen " },
+        { text: "Shot aufs Haus", vip: true },
         { text: "." },
       ],
     },
